@@ -1,0 +1,12 @@
+mmengine>=0.8.3,<1.0.0
+mmcv>=2.0.0,<2.4.0
+mmpretrain>=1.2.0
+torch
+torchvision
+pillow
+numpy
+matplotlib
+einops
+transformers>=4.39.0
+mamba-ssm
+causal-conv1d
